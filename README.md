@@ -52,3 +52,5 @@ Regional and Brand Analysis: Analyze distribution patterns across different coun
 Estimate Market Size: Determine the current size of the EV market and project its growth over the next few years.
 
 Support Strategic Decisions: Generate insights for key stakeholders—including vehicle manufacturers, infrastructure planners, utility companies, and policymakers—to guide production planning, resource allocation, infrastructure investment, and policy development.
+
+## DISCLAIMER: Plotly images are not supported on git-hub , So images of data anlaysis are displayed in the png format above.
